@@ -1,6 +1,6 @@
 # Kutay | UAV Software Developer
 
-UAV mission control backend and flight control simulation developer.
+UAV software developer focused on mission control systems, flight control logic and autonomous UAV infrastructure.
 
 Focused on autonomous control systems, telemetry processing and UAV mission infrastructure.
 
