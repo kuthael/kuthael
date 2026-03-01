@@ -1,25 +1,49 @@
 # Kutay | UAV Software Developer
 
-I build UAV software systems including flight control, simulation and backend mission control.
+I develop UAV software systems focused on flight control, simulation, and backend mission infrastructure.
 
-## Projects
+Currently building and improving autonomous UAV control logic and mission management systems.
 
-- UAV Mission Control Backend  
-Backend system for managing UAV missions and telemetry using FastAPI and PostgreSQL.
+---
 
-- UAV PID Flight Simulator  
-2D UAV simulation using PID controller for stable target tracking and visualization.
+## Core Projects
 
-## Tech Stack
+### UAV Mission Control Backend
+Mission lifecycle management backend built with FastAPI and PostgreSQL.
 
-- Python
-- FastAPI
-- PostgreSQL
-- NumPy
-- Matplotlib
+Capabilities:
+- Mission creation, start, completion and abort logic
+- Telemetry ingestion and validation
+- State-machine enforced mission lifecycle
+- Dockerized backend infrastructure
 
-## Focus
+Tech:
+Python, FastAPI, PostgreSQL, Docker
 
-- UAV software
-- Flight control systems
-- Backend systems
+
+### UAV PID Flight Simulator
+2D UAV flight simulation with PID-based control for stable and precise target tracking.
+
+Capabilities:
+- Physics-based position and velocity simulation
+- PID controller for autonomous movement
+- Real-time visualization
+- Control response behavior testing
+
+Tech:
+Python, NumPy, Matplotlib
+
+---
+
+## Technical Focus
+
+- UAV flight control systems
+- Autonomous control logic
+- Backend mission infrastructure
+- Simulation and control testing
+
+---
+
+## Current Goal
+
+Develop production-level UAV control and backend systems and contribute to real UAV platforms.
