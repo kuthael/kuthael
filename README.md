@@ -2,7 +2,7 @@
 
 UAV software developer focused on flight control systems, mission control backend and autonomous UAV infrastructure.
 
-I develop simulation and backend systems for UAV mission management, telemetry processing and autonomous control logic.
+I build simulation and backend systems for UAV mission management, telemetry processing and autonomous control.
 
 ---
 
